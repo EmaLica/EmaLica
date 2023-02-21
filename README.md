@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuele Licata</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="./Coding.gif">
 
 - 🔭 I’m currently working on **Java Web Service SOAP**
 
