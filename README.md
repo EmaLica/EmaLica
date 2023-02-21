@@ -9,6 +9,8 @@
 
 - 📝 Where I studied [I.T.I.S Magistri Cumacini](https://www.magistricumacini.edu.it/magistricumacini/magistri.php)
 
+- 📚 In which university will I go to study (I hope 🥹)
+
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **emanuelelicatamail@gmail.com**
