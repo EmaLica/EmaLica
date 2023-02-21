@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **React, Flutter**
 
-- 📝 Where I studied [I.T.I.S Magistri Cumacini](https://www.magistricumacini.edu.it/magistricumacini/magistri.php)
-
-- 📚 In which university will I go to study (I hope 🥹)
+- 📝 Where I am studying [I.T.I.S Magistri Cumacini](https://www.magistricumacini.edu.it/magistricumacini/magistri.php)
 
 - 💬 Ask me about **Java**
 
