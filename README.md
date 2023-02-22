@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="./Coding.gif">
 
-- 🔭 I’m currently working on **Java Web Service SOAP**
+[comment]: <> (- 🔭 I’m currently working on **ssss**)
 
 - 🌱 I’m currently learning **React, Flutter**
 
