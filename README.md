@@ -9,7 +9,7 @@
 
 - 📝 Where I am studying [I.T.I.S Magistri Cumacini](https://www.magistricumacini.edu.it/magistricumacini/magistri.php)
 
-- 💬 Ask me about **Back-End**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **emanuelelicatamail@gmail.com**
 
