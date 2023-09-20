@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby, Flutter**
 
-- 📝 Where I am studying [SUPSI Bachelor of computer engineering](https://www.magistricumacini.edu.it/)
+- 📝 Where I am studying [SUPSI Bachelor of computer engineering](https://www.supsi.ch/)
 
 - 💬 Ask me about **Java**
 
