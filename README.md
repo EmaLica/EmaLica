@@ -5,7 +5,7 @@
 
 [comment]: <> (- 🔭 I’m currently working on **ssss**)
 
-- 🌱 I’m currently learning **Ruby, Flutter**
+- 🌱 I’m currently learning **How to sleep**
 
 - 📝 Where I am studying [SUPSI Bachelor of computer science engineering](https://www.supsi.ch/ingegneria-informatica)
 
