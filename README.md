@@ -3,16 +3,8 @@
 </h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<div align="center"> 
-  <a href="mailto:emanuelelicatamail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/emanuele-licata-579037274">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 <hr/>
+
 <div align="left"> 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
