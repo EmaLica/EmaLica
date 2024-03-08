@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EmaLica.EmaLica" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emanuele+Licata!;" />
@@ -15,6 +15,8 @@
 </div>
 
 <hr/>
+<div align="left"> 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 - 🌱 I’m currently learning **How to sleep**
 
@@ -25,7 +27,7 @@
 - 📫 How to reach me **emanuelelicatamail@gmail.com**
 
 - ⚡ Fun fact **I hate php**
-
+</div>
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
