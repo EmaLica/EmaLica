@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Emanuele Licata</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emanuele+Licata!;" />
+</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="Coding" width="400" src="./Coding.gif">
+<div align="center"> 
+  <a href="mailto:emanuelelicatamail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/emanuele-licata-579037274" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-[comment]: <> (- 🔭 I’m currently working on **ssss**)
+<hr/>
 
 - 🌱 I’m currently learning **How to sleep**
 
@@ -15,7 +26,12 @@
 
 - ⚡ Fun fact **I hate php**
 
-<div align="left">
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -50,3 +66,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
+</div>
+
+<br/>
+<hr/>
