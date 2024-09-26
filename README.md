@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **How to sleep**
 
-- 📝 Where I am studying [UniMi Bachelor of computer science]([https://www.supsi.ch/ingegneria-informatica](https://www.unimi.it/it/corsi/laurea-triennale/informatica))
+- 📝 Where I am studying [UniMi Bachelor of computer science](https://www.unimi.it/it/corsi/laurea-triennale/informatica)
 
 - 💬 Ask me about **Java**
 
