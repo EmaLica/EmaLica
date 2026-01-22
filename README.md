@@ -8,15 +8,11 @@
 <div align="left"> 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
-- 🌱 I’m currently learning **How to sleep**
+- 🌱 I’m currently learning **GoLang**
 
 - 📝 Where I am studying [UniMi Bachelor of computer science](https://www.unimi.it/it/corsi/laurea-triennale/informatica)
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **emanuelelicatamail@gmail.com**
-
-- ⚡ Fun fact **I hate php**
 </div>
 <hr/>
 
