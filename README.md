@@ -11,10 +11,10 @@
 
 - 🌱 I’m currently learning 
   <a href="https://golang.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go logo" />
   </a>
   <a href="https://nestjs.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="50" alt="NestJs logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="30" alt="NestJs logo"/>
   </a>
 
 - 📝 Where I am studying [UniMi Bachelor of computer science](https://www.unimi.it/it/corsi/laurea-triennale/informatica)
