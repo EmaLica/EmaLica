@@ -5,10 +5,17 @@
 
 <hr/>
 
+
 <div align="left"> 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning 
+  <a href="https://golang.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go logo" />
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="NestJS logo" />
+  </a>
 
 - 📝 Where I am studying [UniMi Bachelor of computer science](https://www.unimi.it/it/corsi/laurea-triennale/informatica)
 
