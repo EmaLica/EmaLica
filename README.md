@@ -10,7 +10,7 @@ Software developer studying how software works — and how it breaks.
 
 <div align="left">
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpkM3oyZnI0NWZnNnZ0MGl0aDNqM3I3cWc3ZzJoNzVxbXh2Y3QxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif"/>
 
 ### About
 
