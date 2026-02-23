@@ -27,9 +27,9 @@ how they are designed, and how they fail.
   </a>
 
 - 🧠 Focus  
-  - backend systems  
-  - software security  
-  - system internals
+  - 🧩 backend systems  
+  - 🔐 software security 
+  - ⚙️ system internals
 
 - 🎓 Studying  
   [UniMi — Bachelor of Computer Science](https://www.unimi.it/it/corsi/laurea-triennale/informatica)
