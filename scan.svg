@@ -1,0 +1,73 @@
+<svg width="680" height="260" viewBox="0 0 680 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated terminal threat scanner">
+  <title>threat-scan.sh</title>
+  <defs>
+    <pattern id="sl" x="0" y="0" width="1" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1" height="0.5" fill="#39ff14" opacity="0.04"/>
+    </pattern>
+    <radialGradient id="glow" cx="25%" cy="65%" r="55%">
+      <stop offset="0%" stop-color="#3fb950" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+      .a    { opacity: 0; animation: pop 0.35s ease forwards; }
+      .l1   { animation-delay: 0.5s;  }
+      .l2   { animation-delay: 1.5s;  }
+      .l3   { animation-delay: 2.5s;  }
+      .l4   { animation-delay: 3.3s;  }
+      .l5   { animation-delay: 4.0s;  }
+      .l6   { animation-delay: 4.7s;  }
+      .l7   { animation-delay: 5.5s;  }
+      .l8   { animation-delay: 6.2s;  }
+      .cur  { opacity: 0; animation: pop 0.01s 6.2s forwards, blink 0.9s step-end 6.2s infinite; }
+      @keyframes pop   { to { opacity: 1; } }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- Window background -->
+  <rect width="680" height="260" rx="12" fill="#0d1117"/>
+  <rect width="680" height="260" rx="12" fill="url(#glow)"/>
+  <rect width="680" height="260" rx="12" fill="url(#sl)"/>
+  <rect width="680" height="260" rx="12" fill="none" stroke="#21262d" stroke-width="1.5"/>
+
+  <!-- Title bar -->
+  <rect width="680" height="38" rx="12" fill="#161b22"/>
+  <rect y="26" width="680" height="12" fill="#161b22"/>
+  <line x1="0" y1="38" x2="680" y2="38" stroke="#21262d" stroke-width="1"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="19" r="6" fill="#28c840"/>
+  <text class="mono" x="340" y="24" fill="#484f58" font-size="12" text-anchor="middle">threat-scan.sh — bash</text>
+
+  <!-- Line 1: boot -->
+  <text class="mono a l1" x="24" y="70" font-size="13.5" fill="#388bfd">&#10095;</text>
+  <text class="mono a l1" x="43" y="70" font-size="13.5" fill="#adbac7">initializing threat scanner v2.4</text>
+
+  <!-- Line 2: surface scan -->
+  <text class="mono a l2" x="24" y="93" font-size="13.5" fill="#388bfd">&#10095;</text>
+  <text class="mono a l2" x="43" y="93" font-size="13.5" fill="#adbac7">mapping attack surface...</text>
+
+  <!-- Line 3: progress bar -->
+  <text class="mono a l3" x="24" y="116" font-size="13.5" fill="#3fb950">[&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;&#x2588;] 100%  done</text>
+
+  <!-- Line 4 -->
+  <text class="mono a l4" x="24" y="143" font-size="13.5" fill="#3fb950">&#10003;</text>
+  <text class="mono a l4" x="43" y="143" font-size="13.5" fill="#adbac7">0 known vulnerabilities</text>
+
+  <!-- Line 5 -->
+  <text class="mono a l5" x="24" y="166" font-size="13.5" fill="#3fb950">&#10003;</text>
+  <text class="mono a l5" x="43" y="166" font-size="13.5" fill="#adbac7">0 unpatched dependencies</text>
+
+  <!-- Line 6 -->
+  <text class="mono a l6" x="24" y="189" font-size="13.5" fill="#3fb950">&#10003;</text>
+  <text class="mono a l6" x="43" y="189" font-size="13.5" fill="#adbac7">0 exposed endpoints</text>
+
+  <!-- Line 7: WARNING -->
+  <text class="mono a l7" x="24" y="216" font-size="13.5" fill="#f85149">&#9888;</text>
+  <text class="mono a l7" x="43" y="216" font-size="13.5" fill="#f85149">1 suspicious developer detected</text>
+
+  <!-- Line 8: sub-note + cursor -->
+  <text class="mono a l8" x="24" y="239" font-size="13.5" fill="#d29922">  &#x21B3; still awake at 3am</text>
+  <text class="mono cur" x="205" y="239" font-size="13.5" fill="#d29922">&#9608;</text>
+</svg>
