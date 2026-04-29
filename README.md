@@ -1,106 +1,71 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Emanuele+Licata;" />
-</h1>
+```
+> initializing profile.exe ...
+> scanning for vulnerabilities ...
+> none found. suspicious.
+```
+
+<h1 align="center">Emanuele Licata</h1>
+<p align="center"><em>I build software. Then I try to break it. Then I understand it.</em></p>
 
 <p align="center">
-Software developer studying how software works — and how it breaks.
+  <a href="mailto:emanuelelicatamail@gmail.com">
+    <img src="https://img.shields.io/badge/reach_me-emanuelelicatamail%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/status-building%20%26%20breaking-critical?style=flat-square"/>
 </p>
 
-<hr/>
+---
 
-<div align="left">
+## whoami
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpkM3oyZnI0NWZnNnZ0MGl0aDNqM3I3cWc3ZzJoNzVxbXh2Y3QxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif"/>
+CS student @ [UniMi](https://www.unimi.it/it/corsi/laurea-triennale/informatica), spending most of my time in the overlap between
+**backend engineering** and **software security** — two fields that understand each other better than most people think.
 
-### About
+I'm not chasing frameworks. I'm chasing mental models:
+how systems are designed, where they make assumptions, and what happens when those assumptions are wrong.
 
-I build software and study the ways it can be exploited.  
-Most of my time goes into understanding systems from both sides:  
-how they are designed, and how they fail.
+On the side, I build websites for real clients. Currently live: [**skilifecoach.it**](https://skilifecoach.it) — more in progress.
 
-- 🌱 Currently learning  
-  <a href="https://golang.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go logo" />
-  </a>
-  <a href="https://nestjs.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="30" alt="NestJs logo"/>
-  </a>
+---
 
-- 🧠 Focus  
-  - 🧩 backend systems  
-  - 🔐 software security 
-  - ⚙️ system internals
+## what I work with
 
-- 🎓 Studying  
-  [UniMi — Bachelor of Computer Science](https://www.unimi.it/it/corsi/laurea-triennale/informatica)
+```
+Languages    →   C · C++ · Java · Python · JavaScript · TypeScript · PHP · Dart
+Backend      →   Spring · Node.js · NestJS (learning)
+Frontend     →   HTML · CSS · Bootstrap · Flutter
+Databases    →   MySQL · MongoDB
+Other        →   Git · Linux · Go (learning)
+```
 
-- 📫 Contact  
-  **emanuelelicatamail@gmail.com**
+---
 
-</div>
+## what I think about
 
-<hr/>
+```
+[ backend systems ]      →   how things scale, fail, and recover
+[ software security ]    →   where trust breaks down
+[ system internals ]     →   what actually happens under the abstraction
+```
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+---
 
-<div align="center">
-<div align="left">
+## currently
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"/>
-<img width="12" />
+- 📖 &nbsp; Reading source code more than documentation
+- 🔧 &nbsp; Learning **Go** and **NestJS**
+- 🌐 &nbsp; Shipping websites for clients
+- 🎓 &nbsp; Bachelor of CS @ UniMi — Milano
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"/>
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>
-
-</div>
-</div>
-
-<hr/>
+---
 
 <p align="center">
-Code, break, understand, repeat.
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" height="150"/>
 </p>
+
+---
+
+<p align="center"><sub>code → break → understand → repeat</sub></p>
