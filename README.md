@@ -1,4 +1,4 @@
-<img src="./assets/scan.svg" alt="threat scanner" width="100%"/>
+<img src="scan.svg" alt="threat scanner" width="100%"/>
 
 <h1 align="center">Emanuele Licata</h1>
 <p align="center"><em>I build software. Then I try to break it. Then I understand it.</em></p>
