@@ -1,8 +1,4 @@
-```
-> initializing profile.exe ...
-> scanning for vulnerabilities ...
-> none found. suspicious.
-```
+<img src="./assets/scan.svg" alt="threat scanner" width="100%"/>
 
 <h1 align="center">Emanuele Licata</h1>
 <p align="center"><em>I build software. Then I try to break it. Then I understand it.</em></p>
@@ -89,6 +85,14 @@ On the side, I build websites for real clients. Currently live: [**skilifecoach.
 - 🌱 &nbsp; Learning **Go** and **NestJS**
 - 🌐 &nbsp; Shipping websites for clients
 - 🎓 &nbsp; Bachelor of CS @ UniMi — Milano
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmaLica&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmaLica&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" height="150"/>
+</p>
 
 ---
 
