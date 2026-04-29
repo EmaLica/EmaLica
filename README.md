@@ -17,7 +17,7 @@
 
 ---
 
-## whoami
+## 👾 whoami
 
 CS student @ [UniMi](https://www.unimi.it/it/corsi/laurea-triennale/informatica), spending most of my time in the overlap between
 **backend engineering** and **software security** — two fields that understand each other better than most people think.
@@ -29,43 +29,75 @@ On the side, I build websites for real clients. Currently live: [**skilifecoach.
 
 ---
 
-## what I work with
+## 🔧 what I work with
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" title="C"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" title="Spring"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="Node.js"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="30" title="NestJS"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" title="Go"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" title="TypeScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" title="PHP"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" title="Flutter"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" title="Dart"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" title="MongoDB"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" title="MySQL"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" title="CSS3"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" title="Bootstrap"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"/>
+</div>
+
+---
+
+## 🧠 what I think about
 
 ```
-Languages    →   C · C++ · Java · Python · JavaScript · TypeScript · PHP · Dart
-Backend      →   Spring · Node.js · NestJS (learning)
-Frontend     →   HTML · CSS · Bootstrap · Flutter
-Databases    →   MySQL · MongoDB
-Other        →   Git · Linux · Go (learning)
+🧩 backend systems      →   how things scale, fail, and recover
+🔐 software security    →   where trust breaks down  
+⚙️  system internals    →   what actually happens under the abstraction
 ```
 
 ---
 
-## what I think about
-
-```
-[ backend systems ]      →   how things scale, fail, and recover
-[ software security ]    →   where trust breaks down
-[ system internals ]     →   what actually happens under the abstraction
-```
-
----
-
-## currently
+## 📡 currently
 
 - 📖 &nbsp; Reading source code more than documentation
-- 🔧 &nbsp; Learning **Go** and **NestJS**
+- 🌱 &nbsp; Learning **Go** and **NestJS**
 - 🌐 &nbsp; Shipping websites for clients
 - 🎓 &nbsp; Bachelor of CS @ UniMi — Milano
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EmaLica&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmaLica&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" height="150"/>
 </p>
 
 ---
 
-<p align="center"><sub>code → break → understand → repeat</sub></p>
+<p align="center"><sub>🔁 &nbsp; code → break → understand → repeat</sub></p>
