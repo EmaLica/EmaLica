@@ -88,12 +88,5 @@ On the side, I build websites for real clients. Currently live: [**skilifecoach.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmaLica&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmaLica&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" height="150"/>
-</p>
-
----
 
 <p align="center"><sub>🔁 &nbsp; code → break → understand → repeat</sub></p>
