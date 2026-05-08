@@ -21,7 +21,7 @@ CS student @ [UniMi](https://www.unimi.it/it/corsi/laurea-triennale/informatica)
 I'm not chasing frameworks. I'm chasing mental models:
 how systems are designed, where they make assumptions, and what happens when those assumptions are wrong.
 
-On the side, I build websites for real clients. Currently live: [**skilifecoach.it**](https://skilifecoach.it) — more in progress.
+On the side, I build websites for real clients. Currently live: [**skilifecoach.it**](https://skilifecoach.it), [**tiziananaturopata.it**](https://tiziananaturopata.it) — more in progress.
 
 ---
 
